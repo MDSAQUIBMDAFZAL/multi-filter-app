@@ -28,13 +28,13 @@ src
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<USERNAME>/<REPO>.git
+   https://github.com/MDSAQUIBMDAFZAL/multi-filter-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <REPO>
+   cd multi-filter-app
    ```
 
 3. Install the dependencies:
