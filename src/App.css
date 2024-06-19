@@ -24,6 +24,8 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
+  margin-inline: 24px;
+  max-width: 96vw;
 }
 
 th,
@@ -31,4 +33,13 @@ td {
   border: 1px solid black;
   padding: 10px;
   text-align: left;
+}
+.no-record {
+  text-align: center;
+  border: 1px solid gray;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  padding-block: 20vh;
+  margin-top: 20px;
 }
